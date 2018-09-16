@@ -1,0 +1,4 @@
+github使用
+先将项目通过fork到自己的账号
+然后在使用clone git@github.com:ycolourful/仓库名字.git@github克隆到本地
+可以通过在本地修改 然后提交
